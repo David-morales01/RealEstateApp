@@ -1,0 +1,27 @@
+ 
+.mapboxgl-popup-close-button{
+    color:white;
+    margin:4px;  
+    padding-inline: 5px;
+    border-radius: 10px;
+    border:0px transparent; 
+    font-size: 20px;
+    background-color: rgb(212, 212, 212);
+}
+.mapboxgl-popup-close-button:hover{
+    color:black; 
+    background-color: none;
+    text-shadow: 0px 0px 10px blue, 0px 0px 10px red;
+}
+  
+ 
+.defaultImage{  
+    position:relative;
+    min-width:220px; 
+    min-height:200px;  
+    background: rgb(209, 209, 209);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ 
