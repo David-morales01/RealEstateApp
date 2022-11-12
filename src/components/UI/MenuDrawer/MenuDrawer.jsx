@@ -27,7 +27,7 @@ export default function MenuDrawer() {
         {{
 
           position: 'absolute',
-          insetBlockEnd: '50px',
+          insetBlockEnd: '150px',
           insetInlineEnd: '50px',
           width: '60px',
           height: '60px', 
